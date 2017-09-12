@@ -38,3 +38,11 @@ Side Scrolling 2D game. Player is stationary on x-axis but can move freely on th
   - PowerUp Draw
 ### Controller
 - Controller - Calls Player.accelarateUp() and accelarateDown() and Pauses when ESC is pressed (extends KeyListener)
+
+# TO DOWNLOAD
+1. Install Git on your computer
+2. Go to your workspace folder in Command Line
+3. % git clone https://github.com/BenKlapaukh/HelicopterHavoc.git
+4. Open Eclipse
+5. Right Click -> Import -> Projects from File or Archive -> Directory -> Find the HelicopterHavoc Folder in your workspace folder
+6. All done :)
