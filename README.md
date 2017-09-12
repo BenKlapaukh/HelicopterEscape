@@ -30,5 +30,10 @@ Side Scrolling 2D game. Player is stationary on x-axis but can move freely on th
 - View (If paused draws MainMenu, otherwise GameView)
 - MainMenu
 - GameView
+- Abstract Drawing Class
+  - UFO Draw
+  - Skyscraper Draw
+  - Player Draw
+  - PowerUp Draw
 ### Controller
 - Controller - Calls Player.accelarateUp() and accelarateDown() and Pauses when ESC is pressed (extends KeyListener)
