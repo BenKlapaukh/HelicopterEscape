@@ -1,6 +1,6 @@
 package model;
 
-import View.Draw;
+import view.Draw;
 
 public class Player extends GameObject{
 

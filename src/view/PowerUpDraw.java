@@ -1,8 +1,8 @@
-package View;
+package view;
 
 import model.GameObject;
 
-public class SkyscraperDraw implements Draw {
+public class PowerUpDraw implements Draw {
 
 	@Override
 	public void draw(GameObject g) {
