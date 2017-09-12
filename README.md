@@ -22,8 +22,8 @@ Side Scrolling 2D game. Player is stationary on x-axis but can move freely on th
 - Game
 - (Interface) Strategy
   - (Abstract) Collision
-    - Player
     - GameObject
+      - Player
       - UFO
       - Skyscraper
       - PowerUp
@@ -31,7 +31,7 @@ Side Scrolling 2D game. Player is stationary on x-axis but can move freely on th
 - View (If paused draws MainMenu, otherwise GameView)
 - MainMenu
 - GameView
-- Abstract Drawing Class
+- (Interface) Drawing Class
   - UFO Draw
   - Skyscraper Draw
   - Player Draw
