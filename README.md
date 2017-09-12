@@ -20,12 +20,13 @@ Side Scrolling 2D game. Player is stationary on x-axis but can move freely on th
 - Main (creates a new MainMenu object)
 ### Model
 - Game
-- (Interface) Collision
-  - Player
-  - GameObject
-    - UFO
-    - Skyscraper
-    - PowerUp
+- (Interface) Strategy
+  - (Abstract) Collision
+    - Player
+    - GameObject
+      - UFO
+      - Skyscraper
+      - PowerUp
 ### View 
 - View (If paused draws MainMenu, otherwise GameView)
 - MainMenu
