@@ -1,6 +1,6 @@
 package View;
 
-import Model.GameObject;
+import model.GameObject;
 
 public class UFODraw implements Draw {
 
