@@ -27,6 +27,7 @@ Side Scrolling 2D game. Player is stationary on x-axis but can move freely on th
       - UFO
       - Skyscraper
       - PowerUp
+      -missle
 ### View 
 - View (If paused draws MainMenu, otherwise GameView)
 - MainMenu
