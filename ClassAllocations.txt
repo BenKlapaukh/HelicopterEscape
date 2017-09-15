@@ -21,6 +21,7 @@ KEY:
 				*UFO (Group 3)
 				*Skyscraper (Group 3)
 				*PowerUp (Group 3)
+				*missle (group 3)
 
 ## View
 	*View (If paused draws MainMenu, otherwise GameView) (Group 4)
